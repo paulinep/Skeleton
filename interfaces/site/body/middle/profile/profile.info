@@ -1,0 +1,7 @@
+{
+    "proto": "/vendor/pauline/auth/profile",
+    "is_link": true,
+    "properties":{
+               "path": "/profile"
+           }
+}

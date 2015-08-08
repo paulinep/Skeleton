@@ -1,0 +1,7 @@
+{
+    "proto": "/vendor/pauline/auth/form_auth",
+    "is_link": true,
+    "properties":{
+            "path": "/sign-in"
+        }
+}

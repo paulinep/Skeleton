@@ -1,0 +1,29 @@
+{
+    "proto": "/vendor/boolive/basic/page",
+    "order": 0,
+    "properties": {
+        "title": {
+            "proto": "/vendor/boolive/basic/page/title",
+            "order": 0,
+            "value": "Правила работы с сайтом",
+            "is_mandatory": true
+        },
+        "text": {
+            "proto": "/vendor/boolive/basic/page/text",
+            "order": 0,
+            "value": "Тут будет перечень условий на которых можно задавать вопросы",
+            "is_mandatory": true
+        },
+        "description": {
+            "proto": "/vendor/boolive/basic/page/description",
+            "order": 0,
+            "is_mandatory": true
+        },
+        "menu": {
+            "proto": "/vendor/boolive/basic/page/menu",
+            "order": 0,
+            "value": false,
+            "is_mandatory": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "proto": "/vendor/boolive/basic/widget",
+    "file": "form_agree.tpl",
+    "order": 2,
+    "logic": true,
+    "properties":{
+        "path": "/page"
+    }
+}

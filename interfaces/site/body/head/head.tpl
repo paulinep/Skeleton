@@ -1,6 +1,3 @@
-<div class="head__bg">
-    <img class="bg-img" src="/interfaces/site/body/img/head.jpg" width="1952" height="663"/>
-</div>
 <div class="head__info">
     <div class="container">
 <!--        <div class="logo">-->

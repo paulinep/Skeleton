@@ -1,4 +1,5 @@
 {
     "proto": "/vendor/boolive/basic/javascript",
-    "file": "app.js"
+    "file": "app.js",
+    "order": 3
 }

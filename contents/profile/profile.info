@@ -1,0 +1,23 @@
+{
+    "proto": "/vendor/boolive/basic/page",
+    "properties": {
+        "title": {
+            "proto": "/vendor/boolive/basic/page/title",
+            "value": "Профиль пользователя",
+            "is_mandatory": true
+        },
+        "text": {
+            "proto": "/vendor/boolive/basic/page/text",
+            "is_mandatory": true
+        },
+        "description": {
+            "proto": "/vendor/boolive/basic/page/description",
+            "is_mandatory": true
+        },
+        "menu": {
+            "proto": "/vendor/boolive/basic/page/menu",
+            "value": false,
+            "is_mandatory": true
+        }
+    }
+}

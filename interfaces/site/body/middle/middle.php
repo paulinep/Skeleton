@@ -25,6 +25,9 @@ class middle extends widget
     function show($v, Request $request)
     {
         $v['content'] = $this->content->linked()->start($request);
+        $v['form_agree'] = $this->form_agree->linked()->start($request);
+        $v['form_auth'] = $this->form_auth->linked()->start($request);
+        $v['profile'] = $this->profile->linked()->start($request);
         return parent::show($v, $request);
     }
 } 

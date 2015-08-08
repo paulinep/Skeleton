@@ -1,4 +1,5 @@
 {
     "proto": "/vendor/boolive/basic/javascript",
-    "file": "bootstrap.js"
+    "file": "jquery-1.11.3.min.js",
+    "order":1
 }
