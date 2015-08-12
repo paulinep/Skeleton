@@ -28,6 +28,7 @@
         "boolive/admin": "dev-master",
         "boolive/forms": "dev-master",
         "boolive/buildings": "dev-master",
-        "pauline/auth": "dev-master"
+        "pauline/auth": "dev-master",
+        "boolive/data_tools": "dev-master"
     }
 }
