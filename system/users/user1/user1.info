@@ -1,0 +1,18 @@
+{
+    "proto": "/vendor/boolive/basic/user",
+    "value": "3a7a6aa3ad729d6f472e9fd495b1d4d6fb8967449290ca9f44f06a05c7ed9d2b",
+    "properties": {
+        "email": {
+            "proto": "/vendor/boolive/basic/user/email",
+            "value": "paulinep@yandex.ru"
+        },
+        "password": {
+            "proto": "/vendor/boolive/basic/user/password",
+            "value": "я"
+        },
+        "title": {
+            "proto": "/vendor/boolive/basic/user/title",
+            "value": "paulinep@yandex.ru"
+        }
+    }
+}

@@ -21,7 +21,8 @@
         },
         "form_registration": {
             "proto": "/vendor/pauline/auth/form_registration",
-            "order": 0
+            "order": 0,
+            "is_link": true
         }
 }
 }

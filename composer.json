@@ -29,6 +29,7 @@
         "boolive/forms": "dev-master",
         "boolive/buildings": "dev-master",
         "pauline/auth": "dev-master",
-        "boolive/data_tools": "dev-master"
+        "boolive/data_tools": "dev-master",
+        "eoghanobrien/php-simple-mail": "~1.4"
     }
 }

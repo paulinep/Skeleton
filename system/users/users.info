@@ -1,4 +1,5 @@
 {
+    "proto": "/vendor/boolive/basic/group",
     "properties": {
         "title": "Пользователи",
         "description": "Список всех пользователей сайта"
